@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋 I'm sugar
-
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img align="center" name="gongsir's github stats" src="https://github-readme-stats.vercel.app/api?username=gongsir0630&show_icons=true" />
 </a>
