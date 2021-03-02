@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [码之泪殇](https://gongsir.club)
+### Hi there 👋 I'm 码之泪殇
 
 <!--
 **gongsir0630/gongsir0630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
