@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href=“#”>
+<a href=“https://github.com/anuraghazra/github-readme-stats.git”>
   <img align="right" name="码之泪殇's github stats" src="https://github-readme-stats.vercel.app/api?username=gongsir0630&show_icons=true" />
 </a>
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 * **西南石油大学·计算机**大四在读
 * **快手2021届校招**上岸选手 
-* 王者荣耀职业**打野**选手
+* 王者荣耀**打野**选手
 * 初级动漫爱好者-**斗罗大陆**追更
 
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/-Github-green?style=flat-square&logo=Github&logoColor=fff)
 
-![这是访问量计数，如果看不到请刷新](https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=gongsir0630.gongsir0630.readme)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongsir0630&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 来了就给个Star✨✨吧👇
 <br/>
@@ -53,11 +53,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/gongsir0630/LostAndFoundOnCampus">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gongsir0630&repo=LostAndFoundOnCampus" />
 </a>
-<!--
-<a href="https://github.com/gongsir0630/gongsir0630.github.io">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gongsir0630&repo=gongsir0630.github.io" />
-</a>
-<a href="https://github.com/gongsir0630/MarkdownEmoji">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gongsir0630&repo=MarkdownEmoji" />
-</a>
--->
+<br/>
+[![MarkdownEmoji](https://github-readme-stats.vercel.app/api/pin/?username=gongsir0630&repo=MarkdownEmoji)](https://github.com/gongsir0630/MarkdownEmoji)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Hexo-theme-blank](https://github-readme-stats.vercel.app/api/pin/?username=gongsir0630&repo=hexo-theme-blank)](https://github.com/gongsir0630/hexo-theme-blank)
+
+<p align="center"><image src="https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=gongsir0630.gongsir0630.readme" alt="这是访问量计数，如果看不到请刷新" />
