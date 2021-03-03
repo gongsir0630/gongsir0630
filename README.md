@@ -25,7 +25,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/gongsir0630/blog.gongsir.club">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gongsir0630&repo=blog.gongsir.club" />
 </a>
-
-<a href="https://github.com/gongsir0630/MarkdownEmoji">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=gongsir0630&repo=MarkdownEmoji" />
-</a>
