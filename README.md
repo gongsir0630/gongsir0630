@@ -47,16 +47,4 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-[![blog.gongsir.club](https://github-readme-stats.vercel.app/api/pin/?username=gongsir0630&repo=blog.gongsir.club)](https://github.com/gongsir0630/blog.gongsir.club)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![blog.gongsir.club](https://github-readme-stats.vercel.app/api/pin/?username=gongsir0630&repo=LostAndFoundOnCampus)](https://github.com/gongsir0630/LostAndFoundOnCampus)
-
-<br/>
-
-[![MarkdownEmoji](https://github-readme-stats.vercel.app/api/pin/?username=gongsir0630&repo=MarkdownEmoji)](https://github.com/gongsir0630/MarkdownEmoji)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Hexo-theme-blank](https://github-readme-stats.vercel.app/api/pin/?username=gongsir0630&repo=hexo-theme-blank)](https://github.com/gongsir0630/hexo-theme-blank)
-
-<br/>
-
 <p align="center"><image src="https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=gongsir0630.gongsir0630.readme" alt="这是访问量计数，如果看不到请刷新" />
