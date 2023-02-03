@@ -1,4 +1,4 @@
-### Hi there 👋 I'm 码之泪殇
+### Hi there 👋 I'm Kyle
 
 <!--
 **gongsir0630/gongsir0630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <a href=“https://github.com/anuraghazra/github-readme-stats.git”>
-  <img align="right" name="码之泪殇's github stats" src="https://github-readme-stats.vercel.app/api?username=gongsir0630&show_icons=true" />
+  <img align="right" name="Kyle's github stats" src="https://github-readme-stats.vercel.app/api?username=gongsir0630&show_icons=true" />
 </a>
 
 你好！(。・∀・)ノ这里是我的GitHub个人主页。
-* [码之泪殇|个人博客](https://blog.gongsir.club)
-* [码之泪殇|语雀](https://yuque.com/gongsir0630) 
+* [Kyle|个人博客](https://blog.gongsir.club)
+* [Kyle|语雀](https://yuque.com/gongsir0630) 
 
-更多关于笔者：[码之泪殇|个人主页](https://gongsir.club)
+更多关于笔者：[Kyle|个人主页](https://gongsir.club)
 
 * **西南石油大学·计算机**大四在读
 * **快手2021届校招**上岸选手 
