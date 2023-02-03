@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href=“https://github.com/anuraghazra/github-readme-stats.git”>
-  <img align="right" name="Kyle's github stats" src="https://github-readme-stats.vercel.app/api?username=gongsir0630&show_icons=true" />
+  <img align="right" name="Kyle's github stats" src="https://github-readme-stats.vercel.app/api?username=gongsir0630&show_icons=true&count_privite=true" />
 </a>
 
 你好！(。・∀・)ノ这里是我的GitHub个人主页。
