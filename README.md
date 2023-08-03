@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </a>
 
 你好！(。・∀・)ノ这里是我的GitHub个人主页。
-* [Kyle | 个人博客](https://blog.gongsir.club)
+* [Kyle | 个人博客](https://gongsir.club/blog)
 * [Kyle | 语雀](https://yuque.com/gongsir0630) 
 
 更多关于笔者：[Kyle | 个人主页](https://gongsir.club)
